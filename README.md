@@ -1,1 +1,1 @@
-# Speech-to-Sign-Language
+# Speech-to-Sign-Language in Python
