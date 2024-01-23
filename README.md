@@ -1,4 +1,5 @@
 # Speech-to-Sign-Language in Python
+<img src="signlang.png" style="text-align: center;"><br>
 Project Description:
 
 The "Speech to Indian Sign Language Converter" project leverages the power of Python and the Natural Language Toolkit (NLTK) to create a transformative tool for bridging communication gaps. This innovative project aims to provide a solution for individuals with hearing impairments by converting spoken language into Indian Sign Language (ISL) gestures.
